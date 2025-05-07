@@ -11,28 +11,19 @@ We fine-tuned a BERT-based transformer model (dbmdz/bert-base-italian-cased) usi
 
 Key elements of our solution:
 
-Preprocessing and tokenization of text using AutoTokenizer
-
-Classification using AutoModelForSequenceClassification with 5 job classes
-
-Fine-tuning with custom training and evaluation loops
-
-Model selection based on the best F1-score on validation data
-
-Final model achieved F1 score ≈ 0.818, along with strong precision and recall
+- Preprocessing and tokenization of text using AutoTokenizer
+- Classification using AutoModelForSequenceClassification with 5 job classes
+- Fine-tuning with custom training and evaluation loops
+- Model selection based on the best F1-score on validation data
+- Final model achieved F1 score ≈ 0.818, along with strong precision and recall
 
 🛠️ Tech Stack
-Python 3
-
-PyTorch
-
-HuggingFace Transformers
-
-Scikit-learn
-
-Google Colab
-
-Pandas, NumPy
+- Python 3
+- PyTorch
+- HuggingFace Transformers
+- Scikit-learn
+- Google Colab
+- Pandas, NumPy
 
 🥇 Outcome
 Our solution was awarded first place among all participants for its effectiveness, innovation, and scalability.

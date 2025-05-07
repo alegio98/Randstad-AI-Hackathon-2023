@@ -1,6 +1,5 @@
-# Randstad-AI-Hackathon-2023
+# 🏆 Randstad-AI-Hackathon-2023 - Winning project
 
-🏆 Randstad AI Hackathon 2023 - Winning Project
 This repository contains the winning solution of the Randstad AI Hackathon 2023, where participants were challenged to apply AI to real-world HR and recruitment problems. Our team developed an advanced NLP-based classification system that achieved top performance during the event.
 
 🎯 Problem Statement
